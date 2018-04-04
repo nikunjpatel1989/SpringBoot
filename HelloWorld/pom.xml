@@ -13,7 +13,6 @@
     <properties>
         <java.version>1.7</java.version>
     </properties>
-//ss
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
